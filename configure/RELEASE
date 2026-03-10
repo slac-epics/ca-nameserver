@@ -5,7 +5,7 @@
 # directory.
 
 # EPICS_BASE should appear last so earlier modules can override stuff:
-EPICS_BASE = /net/shield/iocapps2/R3.15.5/base/3-15-5-aes1
+#EPICS_BASE = /net/shield/iocapps2/R3.15.5/base/3-15-5-aes1
 
 # These allow developers to override the RELEASE variable settings
 # without having to modify the configure/RELEASE file itself.
